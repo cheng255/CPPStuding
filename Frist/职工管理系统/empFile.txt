@@ -1,0 +1,5 @@
+10 liu 2
+8 chen 1
+7 zhangfei 1
+3 jerry 3
+3 tom 1
